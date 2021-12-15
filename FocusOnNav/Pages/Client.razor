@@ -1,0 +1,15 @@
+﻿@page "/client/{ClientId:int}"
+
+<PageTitle>Client</PageTitle>
+
+<h1>Client - @ClientId</h1>
+
+
+<button>Focusable button</button>
+
+
+@code {
+
+    [Parameter]
+    public int ClientId { get; set; }
+}

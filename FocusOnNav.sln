@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FocusOnNav", "FocusOnNav\FocusOnNav.csproj", "{43EDABB2-2BBB-454E-AF0C-BAEA1F1DD348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43EDABB2-2BBB-454E-AF0C-BAEA1F1DD348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43EDABB2-2BBB-454E-AF0C-BAEA1F1DD348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43EDABB2-2BBB-454E-AF0C-BAEA1F1DD348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43EDABB2-2BBB-454E-AF0C-BAEA1F1DD348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEA58017-AF1B-4CDF-8FE6-1074FE779677}
+	EndGlobalSection
+EndGlobal
